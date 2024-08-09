@@ -1,0 +1,26 @@
+Name : Nirajan Subedi
+
+assignment
+............................
+Short notes of following topics:
+1.pandas
+-> 	pandas is a library tool made for python. it is a high-level data manipulation tool developed by Wes Mckinney in 2008.it is bult on numpy and its data structure is called the 	dataframe it allows you to store and manipulate datas in rows and columns. pandas is mainly used in the field of data science. Pandas allows us to analyze big data and make 	conclusions based on statistical theories. Pandas can clean messy data sets, and make them readable and relevant data which is very important in data science.
+	
+
+2.numpy
+->	numpy is another library tool made for python which is used for working with arrays. it was created in 2005 by travis oliphant. it is a open source proect so, we can use it for free. 
+	It also has functions for working in domain of linear algebra, fourier transform, and matrices. pandas was built under the nampy function. NumPy stands for Numerical Python.
+	In Python we have lists that serve the purpose of arrays, but they are slow to process. NumPy aims to provide an array object that is up to 50x faster than traditional Python lists. 	The array object in NumPy is called ndarray, it provides a lot of supporting functions that make working with ndarray very easy. Arrays are very frequently used in data science, 	where speed and resources are very important.
+	
+
+3.tensorflow
+->	tensorflow is a open source free for all software library solely used for machine learning and AI. it is used to train Originally developed by researchers and engineers from the 	Google Brain team within Google's AI organization it comes with strong support for machine learning and deep learning and the flexible numerical computation core is used across many 	other scientific domains.its flexible architecture allow easy deployment of computing across a lots  of platforms (CPUs, GPUs) and from desktops to different types of servers to 	mobile and edge devices. 
+
+4.keras
+->	Keras is a high-level neural networks API developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing 	good research. it is an open-source library that provides a Python interface for artificial neural networks. Keras was first independent software, then integrated into the TensorFlow 	library, and later supporting more. it was developed by  François Chollet, a Google engineer.
+
+5.pytorch
+->	pytorch is  ML library based on torch library. It is one ofthe most popular ML library. it was developed by META AI in 2017. IT is used for applications such as computer vision and 	natural language processing. PyTorch defines a class called Tensor (torch.Tensor) to store and operate on homogeneous multidimensional rectangular arrays of numbers. PyTorch Tensors 	are similar to NumPy Arrays, but can also be operated on a CUDA-capable NVIDIA GPU. PyTorch has also been developing support for other GPU platforms, for example, AMD's ROCm[24] and 	Apple's Metal Framework.
+
+6.sci-kit learn
+->	scikit-learn also known as scikits.learn and sklearn is a free and open-source machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy. Scikit-learn is a NumFOCUS fiscally sponsored project. it was released in 2010 by French developers Fabian Pedregosa, Gaël Varoquaux, Alexandre Gramfort and Vincent Michel.
